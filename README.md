@@ -5,7 +5,7 @@
 
 
 
-[Watch Demo Video](YOUR_YOUTUBE_LINK) 
+[Watch Demo Video](https://youtu.be/3fqbYOIkuPs?si=yycAA_-P2aETObSl) 
 [Open Live Prototype]( https://devtrails-prototype.netlify.app)
  [Full Idea Document](https://1drv.ms/w/c/6654d5a92d313356/IQBzRqxAiMWlRqZqII3yO8HhAcTTzRJvuPWqPxuOBe_IQnE?e=UzMSHH)
 
@@ -34,9 +34,9 @@
 
 ## 1. The Problem We Are Solving
 
-India has over 12 million platform-based gig delivery workers. They are the invisible backbone of the country's digital economy — and they have absolutely no financial protection when the environment stops them from working.
+India has over 12 million platform-based gig delivery workers. They are the invisible backbone of the country's digital economy and they have absolutely no financial protection when the environment stops them from working.
 
-A deeply unfair reality: external disruptions — heavy monsoon rain, extreme summer heat, hazardous air pollution, sudden curfews, political bandhs — can reduce a worker's daily income to zero in an instant. When this happens, they earn nothing. No sick pay. No employer support. No government safety net. The loss is immediate, total, and entirely theirs to bear.
+A deeply unfair reality: external disruptions — heavy monsoon rain, extreme summer heat, hazardous air pollution, sudden curfews, political bandhs can reduce a worker's daily income to zero in an instant. When this happens, they earn nothing. No sick pay. No employer support. No government safety net. The loss is immediate, total, and entirely theirs to bear.
 
 > **Real Story:** Ravi Kumar, a Swiggy partner in Guntur, lost 11 working days during the 2023 monsoon. Rs.7,700 wiped out — nearly half a month's earnings. No compensation. No advance. No message from Swiggy. He went back to work the moment the rain stopped.
 
