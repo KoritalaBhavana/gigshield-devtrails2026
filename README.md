@@ -138,7 +138,7 @@ This is what most insurance products miss entirely. Understanding Ravi's **menta
 
 **On technology:** Ravi uses Swiggy, Zomato, Google Maps, WhatsApp, and YouTube on his phone every single day. He is not technophobic he is storage-phobic. His 64GB phone is always full. He will not download another app. But he will tap a WhatsApp link.
 
-**On insurance:** Ravi has heard of insurance but associates it with *"complicated documents, agents who disappear after selling the policy, and companies that find reasons not to pay."* He doesn't believe claims get paid. GigShield's value proposition — the money comes without you doing anything is the only framing that breaks through this belief.
+**On insurance:** Ravi has heard of insurance but associates it with *"complicated documents, agents who disappear after selling the policy, and companies that find reasons not to pay."* He doesn't believe claims get paid. GigShield's value proposition the money comes without you doing anything is the only framing that breaks through this belief.
 
 **On money decisions:** Every rupee Ravi spends has an opportunity cost. Rs.19/week = 3 samosas. He will pay it only if he believes the payout is real and will actually arrive.This is why the prototype shows the 47-second countdown it makes the speed visceral and believable.
 
