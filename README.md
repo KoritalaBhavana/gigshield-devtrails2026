@@ -12,7 +12,7 @@
 
 > ## MARKET CRASH RESPONSE
 > **A coordinated GPS-spoofing syndicate of 500 workers drained a competitor's liquidity pool via Telegram-organized fraud.**
-> GigShield anticipated this. Our 7-layer anti-spoofing architecture — accelerometer cross-check, cell tower validation,
+> GigShield anticipated this. Our 7-layer anti-spoofing architecture accelerometer cross-check, cell tower validation,
 > mock location detection, device fingerprinting, and network ring detection — stops coordinated fraud
 
 
@@ -36,9 +36,9 @@
 
 India has over 12 million platform-based gig delivery workers. They are the invisible backbone of the country's digital economy and they have absolutely no financial protection when the environment stops them from working.
 
-A deeply unfair reality: external disruptions — heavy monsoon rain, extreme summer heat, hazardous air pollution, sudden curfews, political bandhs can reduce a worker's daily income to zero in an instant. When this happens, they earn nothing. No sick pay. No employer support. No government safety net. The loss is immediate, total, and entirely theirs to bear.
+A deeply unfair reality: external disruptions heavy monsoon rain, extreme summer heat, hazardous air pollution, sudden curfews, political bandhs can reduce a worker's daily income to zero in an instant. When this happens, they earn nothing. No sick pay. No employer support. No government safety net. The loss is immediate, total, and entirely theirs to bear.
 
-> **Real Story:** Ravi Kumar, a Swiggy partner in Guntur, lost 11 working days during the 2023 monsoon. Rs.7,700 wiped out — nearly half a month's earnings. No compensation. No advance. No message from Swiggy. He went back to work the moment the rain stopped.
+> **Real Story:** Ravi Kumar, a Swiggy partner in Guntur, lost 11 working days during the 2023 monsoon. Rs.7,700 wiped out nearly half a month's earnings. No compensation. No advance. No message from Swiggy. He went back to work the moment the rain stopped.
 
 
 
@@ -75,7 +75,7 @@ Traditional insurance = *"Prove your loss, then we'll consider paying you."*
 Parametric insurance = *"When rainfall crosses 20mm/hr, you get ₹400. Automatically. Always."*
 
 No paperwork. No agent visit. No claim rejection. The trigger is the proof. This model is uniquely suited to gig workers because:
-- Their loss is measurable — it correlates directly with weather thresholds
+- Their loss is measurable it correlates directly with weather thresholds
 - They need money today, not in 3 weeks
 - They cannot afford the time or friction of a traditional claims process
 
@@ -132,17 +132,15 @@ No paperwork. No agent visit. No claim rejection. The trigger is the proof. This
 
 This is what most insurance products miss entirely. Understanding Ravi's **mental model** is what makes GigShield's design different:
 
-**On risk:** Ravi does not think in annual probabilities. He thinks in weeks.If it rains badly this week, I lose Rs.500 this week. His financial horizon is 7 days. Monthly or annual insurance premiums feel abstract and scary — ₹19/week feels real and manageable.
+**On risk:** Ravi does not think in annual probabilities. He thinks in weeks.If it rains badly this week, I lose Rs.500 this week. His financial horizon is 7 days. Monthly or annual insurance premiums feel abstract and scary ₹19/week feels real and manageable.
 
 **On trust:** Ravi has been failed by institutions his entire life. Banks rejected his loan. ESIC said he doesn't qualify. Zomato's support line never answered. He does not trust systems that require him to file paperwork and wait. The only thing that will earn his trust is money arriving without him asking for it.
 
-**On technology:** Ravi uses Swiggy, Zomato, Google Maps, WhatsApp, and YouTube on his phone every single day. He is not technophobic — he is storage-phobic. His 64GB phone is always full. He will not download another app. But he will tap a WhatsApp link.
+**On technology:** Ravi uses Swiggy, Zomato, Google Maps, WhatsApp, and YouTube on his phone every single day. He is not technophobic he is storage-phobic. His 64GB phone is always full. He will not download another app. But he will tap a WhatsApp link.
 
-**On insurance:** Ravi has heard of insurance but associates it with *"complicated documents, agents who disappear after selling the policy, and companies that find reasons not to pay."* He doesn't believe claims get paid. GigShield's value proposition — the money comes without you doing anything — is the only framing that breaks through this belief.
+**On insurance:** Ravi has heard of insurance but associates it with *"complicated documents, agents who disappear after selling the policy, and companies that find reasons not to pay."* He doesn't believe claims get paid. GigShield's value proposition — the money comes without you doing anything is the only framing that breaks through this belief.
 
-**On money decisions:** Every rupee Ravi spends has an opportunity cost. Rs.19/week = 3 samosas. He will pay it only if he believes the payout is real and will actually arrive.This is why the prototype shows the 47-second countdown — it makes the speed visceral and believable.
-
-<br>
+**On money decisions:** Every rupee Ravi spends has an opportunity cost. Rs.19/week = 3 samosas. He will pay it only if he believes the payout is real and will actually arrive.This is why the prototype shows the 47-second countdown it makes the speed visceral and believable.
 
 ### Ravi's Typical Day — Where GigShield Fits
 
@@ -163,10 +161,10 @@ GigShield operates entirely in the background of Ravi's day. He signed up once. 
 | **Age** | 24 |
 | **Platform** | Zomato delivery partner |
 | **Location** | Vijayawada, Andhra Pradesh |
-| **Key detail** | Has mild asthma — cannot safely ride when AQI > 250 |
-| **Challenge** | When air quality is bad, she physically cannot work — but has no income protection |
+| **Key detail** | Has mild asthma cannot safely ride when AQI > 250 |
+| **Challenge** | When air quality is bad, she physically cannot work but has no income protection |
 
-Priya represents a segment of delivery workers who are disproportionately harmed by specific disruptions. Her asthma means AQI events cost her more income than they cost Ravi. GigShield's AQI trigger (₹350 when AQI > 300) directly addresses her specific vulnerability — and she never had to mention her health condition during signup.
+Priya represents a segment of delivery workers who are disproportionately harmed by specific disruptions. Her asthma means AQI events cost her more income than they cost Ravi. GigShield's AQI trigger (₹350 when AQI > 300) directly addresses her specific vulnerability and she never had to mention her health condition during signup.
 
 ### Tertiary Persona — Arjun Mehta
 
@@ -176,7 +174,7 @@ Priya represents a segment of delivery workers who are disproportionately harmed
 | **Key detail** | Sunday evening is his highest-earning window — Rs.150–200/hr |
 | **Challenge** | A sudden bandh on Sunday evening wipes out his best earning window of the week |
 
-Arjun represents workers whose **peak earnings are concentrated** in specific time windows. A bandh at 6 PM Sunday is catastrophic for him — not a minor inconvenience. The ₹450 Zone Bandh payout is calibrated around workers like Arjun.
+Arjun represents workers whose **peak earnings are concentrated** in specific time windows. A bandh at 6 PM Sunday is catastrophic for him not a minor inconvenience. The ₹450 Zone Bandh payout is calibrated around workers like Arjun.
 
 
 ## 4. Application Workflow
@@ -184,13 +182,13 @@ Arjun represents workers whose **peak earnings are concentrated** in specific ti
 ### Part A — Worker Journey (8 Steps)
 
 | Step | Screen | What Happens |
-| **1** | Landing Page | ₹15/week, ₹500 max payout, 60-second auto processing — clicks Get Started |
+| **1** | Landing Page | ₹15/week, ₹500 max payout, 60-second auto processing clicks Get Started |
 | **2** | Role Selector | Selects Delivery Partner — completely separate from Admin flow |
-| **3** | Personal Info (Step 1/2) | Full name, phone number — 256-bit encrypted |
+| **3** | Personal Info (Step 1/2) | Full name, phone number 256-bit encrypted |
 | **4** | Work Details (Step 2/2)| State + District, Zomato/Swiggy, weekly hours, Partner ID, upload ID, UPI, OTP |
 | **5** | AI Premium Calculation | Python model calculates personalised premium based on state flood risk, hours, platform |
-| **6** | Payment | Premium + 18% GST via UPI / Card / Net Banking — auto-renewal every Monday |
-| **7** | Coverage Activated | "You're Protected!" — Coverage Summary, payout speed, renewal schedule |
+| **6** | Payment | Premium + 18% GST via UPI / Card / Net Banking auto-renewal every Monday |
+| **7** | Coverage Activated | "You're Protected!" Coverage Summary, payout speed, renewal schedule |
 | **8** | Auto Payout | Hourly scheduler → weather API → fraud check → UPI in < 60 seconds. Worker does nothing. |
 
 ### Part B — Admin / Insurer Dashboard
@@ -207,7 +205,7 @@ Arjun represents workers whose **peak earnings are concentrated** in specific ti
 
 ## 5. Weekly Premium Model
 
-**Why weekly?** Ravi thinks in weeks. Monthly premiums feel abstract. ₹19/week = 3 samosas. He will pay that. He will not pay ₹76/month — even though it's the same number — because ₹76 feels like a big commitment.
+**Why weekly?** Ravi thinks in weeks. Monthly premiums feel abstract. ₹19/week = 3 samosas. He will pay that. He will not pay ₹76/month even though it's the same number because ₹76 feels like a big commitment.
 
 ### Pricing Structure
 
@@ -285,7 +283,7 @@ GigShield reads: 22.4mm/hr > 20mm threshold → trigger fires → ₹400 sent in
 ### 7. How Our AI Actually Works
 
 > This section answers the question judges are asking: **"How does your AI actually work?"**
-> Not just algorithm names — the actual data, the actual math, the actual decision logic.
+> Not just algorithm names the actual data, the actual math, the actual decision logic.
 
 
 ### Model 1 — Dynamic Premium Calculator
@@ -314,7 +312,7 @@ Capped between ₹15 and ₹89
 | Claim history | Supabase user record | 3+ claims in 4 weeks → +₹3 |
 | New user flag | Account age | New user always starts at base |
 
-**Training data:** Simulated dataset of 10,000 worker profiles across 14 states — generated to reflect real IMD flood risk distributions. Model retrained monthly as real claim data accumulates.
+**Training data:** Simulated dataset of 10,000 worker profiles across 14 states generated to reflect real IMD flood risk distributions. Model retrained monthly as real claim data accumulates.
 
 **Deployment:** `POST /ai/premium` → Python Flask on Render → returns premium in milliseconds → Node.js passes to React frontend.
 
@@ -325,7 +323,7 @@ Capped between ₹15 and ₹89
 
 **Why Isolation Forest specifically:**
 
-Supervised models (Random Forest, XGBoost) require labelled fraud examples — data we don't have on Day 1. Isolation Forest is an unsupervised anomaly detector. It learns what a normal claim looks like, then flags anything that deviates significantly. Perfect for a cold-start platform.
+Supervised models (Random Forest, XGBoost) require labelled fraud examples data we don't have on Day 1. Isolation Forest is an unsupervised anomaly detector. It learns what a normal claim looks like, then flags anything that deviates significantly. Perfect for a cold-start platform.
 
 **How it works — step by step:**
 
@@ -378,7 +376,7 @@ An account claims ₹400 Heavy Rain payout at 11:30 PM. OpenWeatherMap shows 2.1
 | Thursday |  High | 210 | ₹84,000 |
 | Friday |  Moderate | 60 | ₹24,000 |
 
-This lets the insurer pre-fund reserves before Wednesday's storm — not scramble after it hits.
+This lets the insurer pre-fund reserves before Wednesday's storm not scramble after it hits.
 
 ### How AI Connects End-to-End
 
@@ -418,10 +416,10 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 ### PWA Features
 
 | Feature | What It Means for Ravi |
-| Install to home screen | GigShield icon on phone — looks like a real app |
+| Install to home screen | GigShield icon on phone looks like a real app |
 | Works offline | Dashboard loads without internet |
-| Push notifications | "₹400 received" — arrives without opening the app |
-| Instant updates | Bug fixes live immediately — no update prompt |
+| Push notifications | "₹400 received" arrives without opening the app |
+| Instant updates | Bug fixes live immediately no update prompt |
 
 
 ### 9. Tech Stack
@@ -430,9 +428,9 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 | Frontend | React 18 + Vite | Fastest PWA build. Vite's hot reload = screens built in hours not days. |
 | Frontend | Tailwind CSS | No custom CSS. Mobile-first for Ravi's Redmi screen. |
 | Frontend | shadcn/ui | Professional fintech components out of the box. Saves 40+ hours. |
-| Backend | Node.js 20 + Express | Same language as frontend — no context switching for a student team. |
+| Backend | Node.js 20 + Express | Same language as frontend no context switching for a student team. |
 | Backend | Supabase (PostgreSQL) | DB + Auth + OTP + REST APIs in one. Replaces an entire backend team. Free to 500MB. |
-| Backend | node-cron | `cron.schedule('0 * * * *', checkTriggers)` — one line, runs forever. |
+| Backend | node-cron | `cron.schedule('0 * * * *', checkTriggers)` one line, runs forever. |
 | AI/ML | Python 3.11 + Flask | Industry standard for ML. Flask as thin REST wrapper Node.js calls. |
 | AI/ML | scikit-learn | Linear Regression + Isolation Forest. Production grade. No GPU needed. |
 | API | OpenWeatherMap | 1,000 free calls/day. All Indian cities. IMD partner data. Clean JSON. |
@@ -491,9 +489,9 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 | Design weekly premium model — ₹15 to ₹89, AI-adjusted | Pricing model |
 | Plan AI/ML — Linear Regression + Isolation Forest |Section 7 of this README |
 | Select tech stack |Section 9 |
-| Build 16-screen interactive prototype |(https://devtrails-prototype.netlify.app)|
-| Record 2-minute strategy video | [YouTube]|
-| Address Market Crash — anti-spoofing architecture | Section 12 of this README |
+| Build 16-screen interactive prototype |
+| Record 2-minute strategy video |
+| Address Market Crash anti-spoofing architecture | Section 12 of this README |
 
 ### Phase 2 — Build *(Weeks 3–4)*
 
@@ -503,7 +501,7 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 | Supabase — 4 tables (workers, policies, claims, payouts) | Supabase PostgreSQL | Supabase free |
 | REST API — /auth, /policies, /claims, /payouts | Node.js + Express | Render free |
 | Auth — email/password + phone OTP | Supabase Auth | Supabase free |
-| Python AI microservice — premium + fraud endpoints | Python + Flask + scikit-learn | Render free |
+| Python AI microservice premium + fraud endpoints | Python + Flask + scikit-learn | Render free |
 | OpenWeatherMap + OpenAQ integration | Free APIs | Live calls |
 | node-cron hourly scheduler | node-cron | Render server |
 
@@ -522,7 +520,7 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 - GPS zone validation + cell tower cross-check (anti-spoofing Layer 2)
 - 7-day predictive risk dashboard
 - Push notifications via PWA service worker
-- End-to-end testing — all 5 disruption types across 5 states
+- End-to-end testing all 5 disruption types across 5 states
 - 5-minute final demo video
 
 ## 11. Why GigShield Wins
@@ -552,20 +550,20 @@ We chose a **PWA (Progressive Web App)** over a native mobile app — directly t
 6. Liquidity pool drained. Platform collapses.
 
 
-**GigShield's response:** GPS alone is a single point of failure. We stack 7 independent signals. Spoofing one is easy. Spoofing all 7 simultaneously — in real time, across 500 devices — is computationally and practically infeasible.
+**GigShield's response:** GPS alone is a single point of failure. We stack 7 independent signals. Spoofing one is easy. Spoofing all 7 simultaneously in real time, across 500 devices is computationally and practically infeasible.
 
 ### 1. The Differentiation — Genuine Worker vs GPS Spoofer
 
 | Signal Layer | Genuine Worker Shows | GPS Spoofer Shows |
-| **GPS coordinates** | Matches registered zone |Faked — appears in zone |
-| **Device accelerometer** | Bike vibration, motion, stops | Perfectly flat — stationary at home |
+| **GPS coordinates** | Matches registered zone |Faked appears in zone |
+| **Device accelerometer** | Bike vibration, motion, stops | Perfectly flat stationary at home |
 | **Cell tower ID** | Tower physically inside weather zone | Tower 15–20km away at home |
-| **Battery drain rate** | Higher — GPS + Swiggy app active | Lower — no active delivery app |
+| **Battery drain rate** | Higher GPS + Swiggy app active | Lower no active delivery app |
 | **Delivery platform activity** | Active orders on Swiggy/Zomato |Platform shows worker offline |
-| **Historical route fingerprint** | Traces match known delivery routes | GPS pin stationary — no movement |
+| **Historical route fingerprint** | Traces match known delivery routes | GPS pin stationary no movement |
 | **Claim-to-order ratio** | Claims match logged delivery hours | Claims with zero delivery activity |
 
-> **The insight:** A genuine worker trapped in rain at Brodipet will have — moving GPS trace + active Swiggy app + Brodipet cell tower + accelerometer showing bike vibration before stopping + a recent order cancelled. A spoofer at home has none of these. Even with perfect GPS spoofing, 6 other signals betray them.
+> **The insight:** A genuine worker trapped in rain at Brodipet will have moving GPS trace + active Swiggy app + Brodipet cell tower + accelerometer showing bike vibration before stopping + a recent order cancelled. A spoofer at home has none of these. Even with perfect GPS spoofing, 6 other signals betray them.
 
 ### 2. The Data — Detecting the Coordinated Ring
 
@@ -574,9 +572,9 @@ Individual fraud models catch bad actors one by one. **Network-level analysis ca
 | Network Signal | Why It's Impossible to Fake |
 | **Claim burst velocity** | 500 claims in 90 seconds. Genuine: workers notice payout over 20–40 mins. Pattern is impossible organically. |
 | **Geographic clustering** | 40+ claims from devices within 500m. Genuine disruptions spread workers across 5km. |
-| **Device IMEI fingerprint overlap** | Multiple accounts sharing same hardware ID — one person running multiple fake accounts. |
+| **Device IMEI fingerprint overlap** | Multiple accounts sharing same hardware ID one person running multiple fake accounts. |
 | **Synchronized timestamps** | Claims in 2–5 minute windows = coordinated. Genuine claims arrive randomly over 40 minutes. |
-| **New account spike** | 200 accounts registered 72 hours before a predicted high-risk event — pre-registration pattern. |
+| **New account spike** | 200 accounts registered 72 hours before a predicted high-risk event pre-registration pattern. |
 
 >**Auto-freeze rule:** 15+ claims from the same cell tower cluster within 5 minutes of a trigger → entire cluster auto-frozen before any payout processes. All 500 syndicate members get frozen simultaneously before rupee moves.
 
@@ -586,23 +584,22 @@ Individual fraud models catch bad actors one by one. **Network-level analysis ca
 
 | Tier | Condition | Worker Experience | Time to Resolution |
 | **Auto-approve** | Score < 70, no ring signals |
-*"₹400 arrives in 60 seconds — worker never knows a check ran | 60 seconds."*|
+*"₹400 arrives in 60 seconds worker never knows a check ran | 60 seconds."*|
 | **Soft hold** | Score 70–84 |*"Your ₹400 is being processed. You'll receive it within 2 hours."* | 2 hours max |
 | **Admin review** | Score ≥ 85 or ring detected | *"Your claim is under review. Our team will contact you within 4 hours."* | 4 hours max |
 
 **Honest worker protections:**
 
 | Scenario | GigShield Response |
-| :--- | :--- |
-| GPS dropped in storm | Last known GPS within 30 minutes used — benefit of doubt |
+| GPS dropped in storm | Last known GPS within 30 minutes used benefit of doubt |
 | Swiggy app crashed mid-rain | Cell tower + accelerometer used as backup signals |
-| First claim ever | Score capped at 75 — cannot be hard-flagged on first submission |
-| Wrongly flagged | One-tap appeal — admin SLA 4 hours — apology notification on release |
+| First claim ever | Score capped at 75 cannot be hard-flagged on first submission |
+| Wrongly flagged | One-tap appeal admin SLA 4 hours apology notification on release |
 
 **Worker messages — no accusatory language:**
 
 Tier 1: "₹400 has been sent to your UPI. Heavy rain detected in your
-   zone. Stay safe. — GigShield"
+   zone. Stay safe. GigShield"
 
 Tier 2: "Your ₹400 payout is being processed. You will receive it
    within 2 hours. No action needed from you."
@@ -626,18 +623,17 @@ Layer 3 — Claim burst detection:
   Entire cluster auto-frozen. 0 rupees processed.
 
 Layer 4 — Accelerometer check:
-  All 500 show flat sensor data — stationary at home.
+  All 500 show flat sensor data stationary at home.
   Would have been flagged individually even without Layer 3.
 
 Result: ₹0 paid out. Syndicate detected in < 5 minutes.
         All 500 accounts flagged for admin review.
 
->The philosophy:We don't build a perfect fraud detector. We build a system where the cost of fraud exceeds the value of the payout. At ₹400/claim, the syndicate needs hundreds of successful claims to profit. Our system makes that technically and economically infeasible — before a single rupee moves.
+>The philosophy:We don't build a perfect fraud detector. We build a system where the cost of fraud exceeds the value of the payout. At ₹400/claim, the syndicate needs hundreds of successful claims to profit. Our system makes that technically and economically infeasible before a single rupee moves.
 
 **Team**
 
 | Name | Role |
-| :--- | :--- |
 | Asmitha | Frontend + Prototype |
 | Bhavana | Backend + APIs |
 | Parvathi| AI/ML + Python |
