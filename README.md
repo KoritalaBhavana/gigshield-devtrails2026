@@ -13,7 +13,7 @@
 > ## MARKET CRASH RESPONSE
 > **A coordinated GPS-spoofing syndicate of 500 workers drained a competitor's liquidity pool via Telegram-organized fraud.**
 > GigShield anticipated this. Our 7-layer anti-spoofing architecture accelerometer cross-check, cell tower validation,
-> mock location detection, device fingerprinting, and network ring detection — stops coordinated fraud
+> mock location detection, device fingerprinting, and network ring detection stops coordinated fraud
 
 
 ## Table of Contents
@@ -55,13 +55,13 @@ A deeply unfair reality: external disruptions heavy monsoon rain, extreme summer
 ###  Everything Else Fails
 
 | Existing Option | Why It Fails |
-| Traditional health insurance | Covers medical bills — not income loss from weather |
-| Government ESIC scheme | Formal employees only — gig workers excluded by law |
-| Personal accident insurance | Covers accidents — not environmental disruptions |
+| Traditional health insurance | Covers medical bills not income loss from weather |
+| Government ESIC scheme | Formal employees only gig workers excluded by law |
+| Personal accident insurance | Covers accidents not environmental disruptions |
 | Personal savings | Average gig worker has under Rs.5,000 saved |
 | Platform support (Zomato/Swiggy) | Zero income protection against weather events |
 
-> **The bottom line:** 12 million workers. Zero protection. Every monsoon, every heat wave, every bandh — they bear it alone. **This is the gap GigShield fills.**
+> **The bottom line:** 12 million workers. Zero protection. Every monsoon, every heat wave, every bandh they bear it alone. **This is the gap GigShield fills.**
 
 ## 2. Our Solution — GigShield
 
@@ -69,7 +69,7 @@ GigShield is an **AI-enabled parametric income insurance platform** built exclus
 
 > ***A worker pays ₹19/week. Our AI monitors weather and disruption data 24/7. The moment a threshold is crossed, ₹400 hits their UPI in 47 seconds. No claim form. No phone call. No human. The data triggers the payment.***
 
-### What is Parametric Insurance — and Why it's Perfect Here
+### What is Parametric Insurance and Why it's Perfect Here
 
 Traditional insurance = *"Prove your loss, then we'll consider paying you."*
 Parametric insurance = *"When rainfall crosses 20mm/hr, you get ₹400. Automatically. Always."*
@@ -95,7 +95,7 @@ No paperwork. No agent visit. No claim rejection. The trigger is the proof. This
 | Weekly premium | ₹19/week | Less than 2 cups of chai |
 | Max payout per week | ₹1,500 (3 events) | 79× the premium in a bad week |
 | Target active policies | 2,847 workers | ₹54,000 weekly revenue |
-| Target loss ratio | 61% | Profitable — industry standard < 70% |
+| Target loss ratio | 61% | Profitable industry standard < 70% |
 | Target fraud rate | < 2% | Sustainable with AI detection |
 | Break-even | ~400 policies | Achievable in Month 1 |
 
@@ -118,10 +118,10 @@ No paperwork. No agent visit. No claim rejection. The trigger is the proof. This
 **Where his money goes every month:**
 
 | Expense | Amount |
-| Rent — shared room, Arundelpet | ₹4,000 |
-| Fuel — 80km/day on two-wheeler | ₹2,500 |
+| Rent shared room, Arundelpet | ₹4,000 |
+| Fuel 80km/day on two-wheeler | ₹2,500 |
 | Food | ₹2,000 |
-| Remittance home — Narasaraopet village | ₹4,000 |
+| Remittance home Narasaraopet village | ₹4,000 |
 | Phone recharge + data | ₹500 |
 | Vehicle maintenance | ₹600 |
 | **Savings** | **~₹3,000** |
